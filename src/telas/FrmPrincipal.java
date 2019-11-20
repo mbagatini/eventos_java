@@ -53,9 +53,9 @@ public class FrmPrincipal extends javax.swing.JFrame {
             .addGap(0, 579, Short.MAX_VALUE)
         );
 
-        jMenu1.setText("Checkin");
+        jMenu1.setText("Inscrições");
 
-        jmiCheckin.setText("Registro de presença");
+        jmiCheckin.setText("Checkin");
         jmiCheckin.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jmiCheckinActionPerformed(evt);
